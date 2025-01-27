@@ -1,4 +1,6 @@
 # Pet-Supplies-Sales-SQL-Analysis
+![image](https://github.com/user-attachments/assets/c471f3bd-1e8d-4881-96f0-edb464fde682)
+
 A pet supplies store looks to improve their sales by drawing insights from their sales record with attention on how sales are repeated and how this affects revenue generation. This project (in partial fulfilment of DataCamp Associate Data Analyst Certification) analyses the sales record to come up with data-driven actionable insights.
 
 ## Objective:
