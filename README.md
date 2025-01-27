@@ -15,6 +15,7 @@ Excel - for quick data exploration
 Postgresql - for data cleaning and analysis
 Power BI - for data visualization
 
-## Report:
+## Report: 
+Findings and Recommendations are detailed in [this report](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/Pet%20Sales%20Analysis%20Report.pdf)
 
 
