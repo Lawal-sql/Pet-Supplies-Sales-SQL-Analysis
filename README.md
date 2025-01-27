@@ -15,6 +15,9 @@ The [dataset](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/
 ## Tools Used:
 - Excel - for quick data exploration
 - [Postgresql](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/pet_supplies%20query.sql) - to [clean data](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/pet_supplies_cleaned.csv) and analyze
+  
+  ![Untitled](https://github.com/user-attachments/assets/369c5eba-dcf8-4023-a83f-c6221b651330)
+
 - Power BI - for data visualization
 
 ## Report: 
