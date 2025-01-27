@@ -12,10 +12,10 @@ The dataset was provide by Datacamp
 
 ## Tools Used:
 Excel - for quick data exploration
-Postgresql - for data cleaning and analysis
+[Postgresql](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/pet_supplies%20query.sql) - for data cleaning and analysis
 Power BI - for data visualization
 
 ## Report: 
-Findings and Recommendations are detailed in [this report](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/Pet%20Sales%20Analysis%20Report.pdf)
+Visualised Findings and Recommendations are detailed in [this report](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/Pet%20Sales%20Analysis%20Report.pdf)
 
 
