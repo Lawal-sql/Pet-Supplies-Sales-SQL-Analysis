@@ -8,7 +8,7 @@ A pet supplies store looks to improve their sales by drawing insights from their
 * Discover ways to improve sales.
 
 ## Dataset:
-The dataset was provide by Datacamp
+The [dataset](https://github.com/Lawal-sql/Pet-Supplies-Sales-SQL-Analysis/blob/main/pet_supplies_2212.csv) was provide by Datacamp
 
 ## Tools Used:
 - Excel - for quick data exploration
